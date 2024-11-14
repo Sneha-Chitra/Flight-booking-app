@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbb978b2.css",
+    "main.js": "/static/js/main.fcc71474.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Passenger_Airplanes.jpg": "/static/media/Passenger_Airplanes.77ea8c3ea33326159b6f.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.dbb978b2.css.map": "/static/css/main.dbb978b2.css.map",
+    "main.fcc71474.js.map": "/static/js/main.fcc71474.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbb978b2.css",
+    "static/js/main.fcc71474.js"
+  ]
+}
