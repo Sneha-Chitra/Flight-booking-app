@@ -15,7 +15,7 @@ app.use(cors());
 // mongoose setup
 
 const PORT = 6001;
-mongoose.connect('mongodb+srv://Bharath:Bharath0510@cluster0.dgwew.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', { 
+mongoose.connect('mongodb+srv://anushajan2004:xPlMQiilladef@cluster0.xm1nf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', { 
         useNewUrlParser: true,
         useUnifiedTopology: true,
     }
